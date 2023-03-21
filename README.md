@@ -44,7 +44,7 @@ An adventure race leaderboard app.  This allows users to submit their results, a
 
 ### Check it out here : [Trackr](https://https://trackr-client.onrender.com/)
 
- <img src="img/trackr.png" width="47%"> 
+ <img src="/trackr.png" width="47%"> 
 <hr>
 
 ## Stub-Crud Event Registration App
@@ -55,7 +55,7 @@ An event registration app for an adventure race that I organize built with a tea
 
 ### Check it out here : [Stub-Crud Event Registration App](https://stubcrudclient.onrender.com/)
 
- <img src="img/stubcrud.png" width="65%"> 
+ <img src="/stubcrud.png" width="65%"> 
 
 <hr>
 
@@ -67,7 +67,7 @@ A service ticket management app for a bicycle shop.  Allows users to create tick
 
 ### Check it out here : [Service Ticket Manager](https://patgoral.github.io/project2-client/)
 
- <img src="img/stm.png" width="65%"> 
+ <img src="/stm.png" width="65%"> 
 
 <hr>
 
@@ -82,7 +82,7 @@ A basic slot machine built using vanilla JavaScript, HTML5, and CSS3.
 
 ### Check it out here : [Crocs Machine](https://patgoral.github.io/slot-machine-project/)
 
- <img src="img/croc.png" width="65%"> 
+ <img src="/croc.png" width="65%"> 
 
 <hr>
 
