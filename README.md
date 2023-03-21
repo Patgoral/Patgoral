@@ -44,7 +44,7 @@ An adventure race leaderboard app.  This allows users to submit their results, a
 
 ### Check it out here : [Trackr](https://https://trackr-client.onrender.com/)
 
- <img src="/trackr.png" width="47%"> 
+ <img src="/trackr.png" width="65%"> 
 <hr>
 
 ## Stub-Crud Event Registration App
