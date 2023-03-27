@@ -48,7 +48,7 @@ An adventure race leaderboard app.  This allows users to submit their results, a
  <img src="/trackr.png" width="65%"> 
 <hr>
 
-## Stub-Crud Event Registration App
+## [Stub-Crud Event Registration App](https://github.com/Melendezj18/Stub-Crud)
 
 ### Mongoose/Express/React/Node Team project.
 
@@ -60,7 +60,7 @@ An event registration app for an adventure race that I organize built with a tea
 
 <hr>
 
-## Service Ticket Manager
+## [Service Ticket Manager](https://github.com/Patgoral/project2-client)
 
 ### Vanilla JavaScript Project using Express and Mongoose
 
@@ -75,7 +75,7 @@ A service ticket management app for a bicycle shop.  Allows users to create tick
 
 <hr>
 
-## Crocs-Machine Slot Machine
+## [Crocs-Machine Slot Machine](https://github.com/Patgoral/slot-machine-project)
 
 ### Vanilla JavaScript Project
 
