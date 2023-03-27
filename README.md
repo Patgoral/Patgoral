@@ -36,13 +36,14 @@
 # Projects
 
 
-## Trackr
+## [Friedclay.com](https://github.com/Patgoral/Fried-Clay-Client)
 
 ### Mongoose/Express/React/Node 
 
 An adventure race leaderboard app.  This allows users to submit their results, as well as upload a photo and a GPX file.  This creates a live updated leaderboard, where you can click each name and see their results, image, and the GPX track rendered to a map.  This was a huge challenge as far as managing the massive amount of data associated with GPX files.  Most of this was handled on the backend, with multiple parsing functions, and a conversion to encoded polyline before sending to the server.
 
-### Check it out here : [Trackr](https://https://trackr-client.onrender.com/)
+### Check it out deployed here : [Friedclay.com](https://friedclay.com)
+
 
  <img src="/trackr.png" width="65%"> 
 <hr>
