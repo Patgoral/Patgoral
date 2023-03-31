@@ -14,14 +14,14 @@
 
 | Skills     |            |
 | ---------- | --------   |
-| React      | Node       |
+| React      | NodeJs     |
 | JavaScript | Express    |
 | Render     | MongoDB    |
 | HTML5      | CSS3       |
 | Django     | Heroku     |
 | Python     | Django     |
 | Git        | Bash       |
-| Bootstrap  | postgreSql |
+| Bootstrap  | PostgreSql |
 
 ### Software
 
