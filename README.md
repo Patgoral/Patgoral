@@ -27,11 +27,11 @@
 
 ![My Skills](https://skillicons.dev/icons?i=vscode,postman,django)
 
-| Software             |     |
-| -------------------- | --- |
-| VS Code              |     |
-| Postman              |     |
-| REST Framework       |     |
+| Software             |     
+| -------------------- | 
+| VS Code              |     
+| Postman API          |     
+| REST Framework       |     
 
 # Projects
 
